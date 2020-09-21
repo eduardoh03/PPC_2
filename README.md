@@ -16,11 +16,7 @@ Struct – (Escolher 3 questões)
 Ponteiros – (Escolher 5 questões) 
 
 18. Escreva um programa que declare um inteiro, um real e um char, e ponteiros para inteiro, real, e char. Associe as variáveis aos ponteiros(use &). Modifique os valores de cada variável usando ponteiros. Imprima os valores das variáveis antes e após a modificação. 
-
 19. Escreva um programa que contenha duas variáveis inteiras.compare seus endereços e exiba o maior endereço. 
-
 23.  O que as linhas abaixo fazem? 
-
 24. O que as linhas abaixo fazem? 
-
-25. O que vai ser impresso na tela .
+25. O que vai ser impresso na tela.
