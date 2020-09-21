@@ -17,6 +17,9 @@ Ponteiros – (Escolher 5 questões)
 
 18. Escreva um programa que declare um inteiro, um real e um char, e ponteiros para inteiro, real, e char. Associe as variáveis aos ponteiros(use &). Modifique os valores de cada variável usando ponteiros. Imprima os valores das variáveis antes e após a modificação. 
 19. Escreva um programa que contenha duas variáveis inteiras.compare seus endereços e exiba o maior endereço. 
-23. . O que as linhas abaixo fazem? int i=99,j; int *p; p = &i; j = *p + 100; 
+
+23.  O que as linhas abaixo fazem? int i=99,j; int *p; p = &i; j = *p + 100; 
+
 24. O que as linhas abaixo fazem? int i=7, j=3; int *p; int **r; p = &i; r = &p; c = **r + j; 
+
 25. O que vai ser impresso na tela void incrementa (int *a, int b){ *a += b; } main (){ int num; num=100; printf (“Valor de num %d\n”, num); incrementa (&num,50); printf (“Valor de num %d\n”, num); }
