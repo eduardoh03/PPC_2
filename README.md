@@ -11,5 +11,6 @@ Struct – (Escolher 3 questões)
 14. Escrever um programa que cadastre vários produtos. Em seguida, imprima uma lista com o código de cada produto. Por último, consulte o preço de um produto através de seu código 
 
 Ponteiros – (Escolher 5 questões) 
+
 18. Escreva um programa que declare um inteiro, um real e um char, e ponteiros para inteiro, real, e char. Associe as variáveis aos ponteiros(use &). Modifique os valores de cada variável usando ponteiros. Imprima os valores das variáveis antes e após a modificação. 
 19. Escreva um programa que contenha duas variáveis inteiras.compare seus endereços e exiba o maior endereço. 
