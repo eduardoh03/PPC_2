@@ -5,7 +5,9 @@ Vetores e Matrizes – (Escolher 5 questões)
 3. Faça um programa que preencha um vetor com 10 números reais, calcule e mostre a quantidade de números negativos e a soma dos números positivos desse vetor. 
 4. Fazer um programa para ler 5 valores e, em seguida, mostrar todos os valores lidos juntamente com o maior, o menor e a media dos valores. 
 5. Fazer um programa para ler 5 valores e, em seguida, mostrar a posição onde se encontram o maior e o menor valor.
-Struct – (Escolher 3 questões) 
+
+
+Struct – (Escolher 3 questões)
 12. Escrever um programa que cadastre a matrícula e duas notas de vários alunos. Em seguida imprima a matrícula, o nome e a média de cada um deles. 
 13. Escrever um programa que cadastre a altura, o peso, o cpf e sexo de algumas pessoas. Com os dados cadastrados, em seguida localizar uma pessoas através do seu CPF e imprimir o seu IMC. 
 14. Escrever um programa que cadastre vários produtos. Em seguida, imprima uma lista com o código de cada produto. Por último, consulte o preço de um produto através de seu código 
