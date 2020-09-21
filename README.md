@@ -20,26 +20,7 @@ Ponteiros – (Escolher 5 questões)
 19. Escreva um programa que contenha duas variáveis inteiras.compare seus endereços e exiba o maior endereço. 
 
 23.  O que as linhas abaixo fazem? 
-int i=99,j; 
-int *p; 
-p = &i; 
-j = *p + 100;. 
 
 24. O que as linhas abaixo fazem? 
-int i=7, j=3; 
-int *p; 
-int **r; 
-p = &i; 
-r = &p; 
-c = **r + j;.
 
-25. O que vai ser impresso na tela 
-void incrementa 
-(int *a, int b)
-{ *a += b; } 
-main (){ 
-int num; num=100; 
-printf (“Valor de num %d\n”, num); 
-incrementa (&num,50); 
-printf (“Valor de num %d\n”, num); 
-}.
+25. O que vai ser impresso na tela .
