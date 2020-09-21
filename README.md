@@ -10,9 +10,7 @@ Vetores e Matrizes – (Escolher 5 questões)
 Struct – (Escolher 3 questões)
 
 12. Escrever um programa que cadastre a matrícula e duas notas de vários alunos. Em seguida imprima a matrícula, o nome e a média de cada um deles. 
-
 13. Escrever um programa que cadastre a altura, o peso, o cpf e sexo de algumas pessoas. Com os dados cadastrados, em seguida localizar uma pessoas através do seu CPF e imprimir o seu IMC. 
-
 14. Escrever um programa que cadastre vários produtos. Em seguida, imprima uma lista com o código de cada produto. Por último, consulte o preço de um produto através de seu código 
 
 Ponteiros – (Escolher 5 questões) 
